@@ -40,6 +40,27 @@ git commit -m "Message for commit"
  ### Links
  My [Portfolio website](https://www.andriannikolaev.com/).
 
- ### Sections
- This is a link to [Quotes](#quotes)
+ ### Section links
+ This is a link to [Quotes](#quotes), which is a heading earlier in this document.
+
+ ### Line breaks
+ Line breaks can be achieved with:  
+ adding two spaces at the end of the\
+ or with the backlash symbol at the end<br/>
+ or with the 'br' html tag
+ 
+ or by leaving two empty lines
+
+### Lists
+- Unordered lists are
+* made with either 
++ symbol: -, +, *
+
+1. Ordered lists are
+2. Made with using a
+3. number in the start
+
+- [ ] Task lists
+- [ ] Are made with the - [ ] symbol
+- [x] And can be marked with - [x] symbol
 
